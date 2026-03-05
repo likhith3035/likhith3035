@@ -1,70 +1,78 @@
-```markdown
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Likhith</h1>
-<h3 align="center">🚀 AI-Powered Web Developer | SEO Enthusiast | B.Tech Student</h3>
+<!-- ================= HERO ================= -->
 
-<!-- TYPING EFFECT -->
+<h1 align="center">Hi 👋, I'm Likhith</h1>
+<h3 align="center">🚀 AI-Powered Web Developer | SEO Enthusiast | B.Tech AI & DS Student</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Powered+Web+Developer;SEO+Focused+Website+Builder;Learning+JavaScript+%26+React;Building+Smart+Web+Experiences" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Web+Developer;Building+Smart+Web+Experiences;SEO+Focused+Website+Builder;Future+AI+Engineer;Hackathon+Enthusiast" />
 </p>
 
 ---
 
-<!-- VISITOR COUNTER -->
+<!-- ================= VISITORS ================= -->
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=LuckyLikhith&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💡 Passionate about **building modern, high-performance websites**  
-🤖 Exploring **AI tools to enhance development and SEO**  
-📚 Currently learning **JavaScript & React**  
-⚡ Love experimenting with **AI + Web Development**
+🚀 Passionate about **building modern high-performance websites**
+
+🤖 Exploring **AI tools to enhance coding and productivity**
+
+📚 Currently learning **JavaScript, React and AI workflows**
+
+⚡ Love combining **AI + Web Development**
+
+🎓 B.Tech in **Artificial Intelligence & Data Science**
 
 ---
 
-# 🧠 What I'm Learning
+# 🧠 Currently Learning
 
 - Modern JavaScript
 - React Development
-- AI-powered development workflows
-- SEO optimization for websites
+- AI-assisted coding workflows
+- SEO optimization strategies
+- Git & GitHub collaboration
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
 
 </p>
 
 ---
 
+# 🤖 AI Tools I Use
+
+- ChatGPT – AI coding assistant  
+- Ollama – Local AI experiments  
+- AI assisted development  
+- Prompt engineering
+
+---
+
 # 🚀 Featured Projects
 
-### 🤖 AI-Powered Portfolio
-🔗 https://github.com/LuckyLikhith/ai-portfolio
+### 🌐 NEWS 24/7 Pro
+Real-time news website with RSS feeds, bookmarking and dark mode.
 
-Personal portfolio built using **AI-assisted design and coding**.
+### 🧵 SD Kalamkari Website
+SEO optimized website for traditional Kalamkari sarees.
 
----
+### 🎮 Clicker Game
+Interactive web game with multiple timer modes.
 
-### 📈 SEO Analyzer
-🔗 https://github.com/LuckyLikhith/seo-analyzer
-
-Tool that analyzes websites and suggests **SEO improvements**.
-
----
-
-### 🧪 Learning Hub
-🔗 https://github.com/LuckyLikhith/learning-hub
-
-Collection of my **coding experiments and practice projects**.
+### 🚌 College Bus Management System
+Bus route and student management system using Supabase.
 
 ---
 
@@ -72,9 +80,9 @@ Collection of my **coding experiments and practice projects**.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckyLikhith&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuckyLikhith&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyLikhith&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyLikhith&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -84,9 +92,48 @@ Collection of my **coding experiments and practice projects**.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyLikhith&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyLikhith&theme=tokyonight" />
 
 </p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuckyLikhith&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=LuckyLikhith&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+🚀 Build AI powered web apps  
+🧠 Master React and modern frontend  
+🏆 Win national level hackathons  
+🌍 Contribute to open source projects  
 
 ---
 
@@ -112,13 +159,16 @@ Collection of my **coding experiments and practice projects**.
 
 # ⚡ Fun Facts
 
-🚀 I use **AI as my coding partner**  
-🎯 Goal: Build **smart AI-powered websites**  
-🌱 Always learning and experimenting  
+🚀 I use **AI as my coding partner**
+
+💡 I love building **AI powered websites**
+
+🎯 Goal: Build **smart AI platforms**
 
 ---
 
 <p align="center">
-⭐ From <b>Likhith</b> | AI-Driven Web Developer
+
+⭐ From <b>Likhith</b> | AI Driven Developer
+
 </p>
-```
