@@ -1,82 +1,67 @@
-<!-- ================= HERO SECTION ================= -->
-
-<h1 align="center">Hi 👋, I'm Likhith</h1>
-<h3 align="center">🚀 AI-Powered Web Developer | SEO Enthusiast | B.Tech AI & DS Student</h3>
+<!-- ================= CYBERPUNK AI HEADER ================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Web+Developer;Building+Smart+Web+Applications;SEO+Focused+Website+Builder;Future+AI+Engineer;Hackathon+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=250&section=header&text=Likhith%20AI%20Developer&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<h1 align="center">🤖 Welcome to My AI Developer Space</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Web+Developer;Cyberpunk+Coding+Mode+Activated;Building+Smart+Web+Applications;Future+AI+Engineer;Hackathon+Builder"/>
 </p>
 
 ---
 
-<!-- ================= VISITOR COUNTER ================= -->
+# 🧠 About Me
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=LuckyLikhith&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+🚀 B.Tech Student in **Artificial Intelligence & Data Science**
 
----
+💻 Passionate about **AI + Web Development**
 
-# 👨‍💻 About Me
+⚡ Building **modern high-performance websites**
 
-🚀 Passionate about building **modern high-performance websites**
+🤖 Using **AI tools to accelerate development**
 
-🤖 Exploring **AI tools to enhance development**
-
-📚 Currently learning **JavaScript, React & AI workflows**
-
-⚡ Love combining **AI + Web Development**
-
-🎓 B.Tech in **Artificial Intelligence & Data Science**
+🌏 Based in **India**
 
 ---
 
-# 🧠 Currently Learning
-
-- Modern JavaScript  
-- React Development  
-- AI assisted development workflows  
-- SEO optimization strategies  
-- Git & GitHub collaboration  
-
----
-
-# 🛠 Tech Stack
+# 🌌 Cyberpunk Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,github,vscode&theme=dark"/>
 
 </p>
 
 ---
 
-# 🤖 AI Tools I Use
+# 🤖 AI Tools
 
-- ChatGPT – AI coding assistant  
-- Ollama – Local AI experiments  
-- AI assisted coding workflows  
-- Prompt engineering  
+- ChatGPT
+- Ollama
+- AI-assisted coding
+- Prompt engineering
 
 ---
 
-# 🚀 Featured Projects
+# 🎮 Featured Projects
 
 ### 🌐 NEWS 24/7 Pro
-Real-time news website with RSS feeds, bookmarking and dark mode.
+Real-time news website with RSS feeds, bookmarking, and dark mode.
 
 ### 🧵 SD Kalamkari Website
 SEO optimized website for traditional Kalamkari sarees.
 
 ### 🎮 Clicker Game
-Interactive browser game with multiple timer modes.
+Interactive web game with animated buttons and timer modes.
 
-### 🚌 College Bus Management System
-Web system for managing bus routes and student data using Supabase.
+### 🚌 Bus Management System
+Web app for managing college buses and student routes.
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Live Coding Dashboard
 
 <p align="center">
 
@@ -92,13 +77,13 @@ Web system for managing bus routes and student data using Supabase.
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyLikhith&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckyLikhith&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Coding Activity Graph
 
 <p align="center">
 
@@ -108,7 +93,7 @@ Web system for managing bus routes and student data using Supabase.
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <p align="center">
 
@@ -118,11 +103,21 @@ Web system for managing bus routes and student data using Supabase.
 
 ---
 
-# 📊 Developer Metrics Dashboard
+# 🧠 Developer Metrics
 
 <p align="center">
 
-<img src="https://metrics.lecoq.io/LuckyLikhith?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FCalcutta"/>
+<img src="https://metrics.lecoq.io/LuckyLikhith?template=classic&base.header=0&base.activity=1&base.repositories=1&base.community=1&config.timezone=Asia%2FCalcutta"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
@@ -130,10 +125,10 @@ Web system for managing bus routes and student data using Supabase.
 
 # 🎯 2026 Goals
 
-🚀 Build AI powered web apps  
-🧠 Master React and modern frontend  
-🏆 Win national level hackathons  
-🌍 Contribute to open source projects  
+🚀 Build AI-powered platforms  
+🧠 Master React & modern frontend  
+🏆 Win national hackathons  
+🌍 Contribute to open source  
 
 ---
 
@@ -157,14 +152,13 @@ Web system for managing bus routes and student data using Supabase.
 
 ---
 
-# ⚡ Fun Facts
+# ⚡ AI Fun Fact
 
-🚀 I use **AI as my coding partner**  
-💡 I love experimenting with **AI + Web Development**  
-🎯 My goal is to build **smart AI platforms**
+🤖 I treat **AI as my coding partner**  
+🚀 I love building **smart AI web systems**
 
 ---
 
 <p align="center">
-⭐ From <b>Likhith</b> | AI-Driven Web Developer
+⭐ From <b>Likhith</b> | Cyberpunk AI Developer
 </p>
