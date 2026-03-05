@@ -1,15 +1,15 @@
-<!-- ================= HERO ================= -->
+<!-- ================= HERO SECTION ================= -->
 
 <h1 align="center">Hi 👋, I'm Likhith</h1>
 <h3 align="center">🚀 AI-Powered Web Developer | SEO Enthusiast | B.Tech AI & DS Student</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Web+Developer;Building+Smart+Web+Experiences;SEO+Focused+Website+Builder;Future+AI+Engineer;Hackathon+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Powered+Web+Developer;Building+Smart+Web+Applications;SEO+Focused+Website+Builder;Future+AI+Engineer;Hackathon+Enthusiast" />
 </p>
 
 ---
 
-<!-- ================= VISITORS ================= -->
+<!-- ================= VISITOR COUNTER ================= -->
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=LuckyLikhith&label=Profile%20Views&color=blue&style=for-the-badge" />
@@ -19,11 +19,11 @@
 
 # 👨‍💻 About Me
 
-🚀 Passionate about **building modern high-performance websites**
+🚀 Passionate about building **modern high-performance websites**
 
-🤖 Exploring **AI tools to enhance coding and productivity**
+🤖 Exploring **AI tools to enhance development**
 
-📚 Currently learning **JavaScript, React and AI workflows**
+📚 Currently learning **JavaScript, React & AI workflows**
 
 ⚡ Love combining **AI + Web Development**
 
@@ -33,11 +33,11 @@
 
 # 🧠 Currently Learning
 
-- Modern JavaScript
-- React Development
-- AI-assisted coding workflows
-- SEO optimization strategies
-- Git & GitHub collaboration
+- Modern JavaScript  
+- React Development  
+- AI assisted development workflows  
+- SEO optimization strategies  
+- Git & GitHub collaboration  
 
 ---
 
@@ -55,8 +55,8 @@
 
 - ChatGPT – AI coding assistant  
 - Ollama – Local AI experiments  
-- AI assisted development  
-- Prompt engineering
+- AI assisted coding workflows  
+- Prompt engineering  
 
 ---
 
@@ -69,10 +69,10 @@ Real-time news website with RSS feeds, bookmarking and dark mode.
 SEO optimized website for traditional Kalamkari sarees.
 
 ### 🎮 Clicker Game
-Interactive web game with multiple timer modes.
+Interactive browser game with multiple timer modes.
 
 ### 🚌 College Bus Management System
-Bus route and student management system using Supabase.
+Web system for managing bus routes and student data using Supabase.
 
 ---
 
@@ -98,7 +98,7 @@ Bus route and student management system using Supabase.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -118,11 +118,11 @@ Bus route and student management system using Supabase.
 
 ---
 
-# 🐍 Contribution Snake
+# 📊 Developer Metrics Dashboard
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+<img src="https://metrics.lecoq.io/LuckyLikhith?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=Asia%2FCalcutta"/>
 
 </p>
 
@@ -159,16 +159,12 @@ Bus route and student management system using Supabase.
 
 # ⚡ Fun Facts
 
-🚀 I use **AI as my coding partner**
-
-💡 I love building **AI powered websites**
-
-🎯 Goal: Build **smart AI platforms**
+🚀 I use **AI as my coding partner**  
+💡 I love experimenting with **AI + Web Development**  
+🎯 My goal is to build **smart AI platforms**
 
 ---
 
 <p align="center">
-
-⭐ From <b>Likhith</b> | AI Driven Developer
-
+⭐ From <b>Likhith</b> | AI-Driven Web Developer
 </p>
