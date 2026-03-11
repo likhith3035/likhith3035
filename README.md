@@ -14,14 +14,14 @@
 ## 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/likhith3035/ai-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=ai-portfolio&theme=radical&show_owner=true" />
+  <a href="https://github.com/likhith3035/livetalkbylikki">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/likhith3035/seo-analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=seo-analyzer&theme=radical&show_owner=true" />
+  <a href="https://github.com/likhith3035/hostel-portal-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=radical&show_owner=true" />
   </a>
-  <a href="https://github.com/likhith3035/chatbot-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=chatbot-web&theme=radical&show_owner=true" />
+  <a href="https://github.com/likhith3035/share2all">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=share2all&theme=radical&show_owner=true" />
   </a>
 </p>
 
