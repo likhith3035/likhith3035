@@ -48,8 +48,6 @@
 
 ---
 
----
-
 ## 🛠️ Skills
 
 <p align="center">
@@ -97,12 +95,15 @@
 
 <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Antigravity_AI-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep_Learning-3776AB?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 </td>
 </tr>
 </table>
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -130,15 +131,6 @@
 </div>
 
 ---
----
-
----
-
----
-
----
-
----
 
 ## 📈 Contribution Heatmap
 
@@ -149,7 +141,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhith3035&theme=tokyonight" alt="Profile Details"/>
 </div>
 
-
+---
 
 ## ⚡ Fun Facts
 
@@ -160,6 +152,11 @@
 ---
 
 ## ❤️ Support Me
+
+<p align="center">
+  If you enjoy my projects or find my work helpful, consider supporting me!  
+  Your contribution helps me stay motivated and continue building cool AI-powered web solutions. 🚀
+</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/">
