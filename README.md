@@ -124,11 +124,14 @@
 
 ---
 
-## 📈 Contribution Heatmap
+---
+
+## 📊 Advanced Contribution Dashboard
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&theme=github-compact&hide_border=true&bg_color=0d1117&color=00ffcc&line=00ffcc&point=ffffff&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github.com/likhith3035/likhith3035/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
 </div>
+
 
 ## ⚡ Fun Facts
 
