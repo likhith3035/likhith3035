@@ -120,11 +120,14 @@
 ---
 ---
 
+---
+
 ## 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=00ff99&point=ffffff&area=true" alt="GitHub Activity Graph"/>
 </div>
+
 
 ## ⚡ Fun Facts
 
