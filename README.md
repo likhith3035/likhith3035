@@ -1,4 +1,3 @@
-```html
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
 <h1 align="left">
@@ -60,8 +59,6 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript" />
 
-<br/><br/>
-
 </td>
 
 <td width="50%" align="center">
@@ -71,18 +68,14 @@
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap" />
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" align="center">
 
 <h3>🗄️ Databases</h3>
 
 <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-
-<br/><br/>
 
 </td>
 
@@ -93,11 +86,22 @@
 <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio" />
 
 </td>
-
 </tr>
-
 </table>
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- [AI Portfolio Generator](https://github.com/likhith3035/ai-portfolio)  
+  A React + Node.js app that auto-generates developer portfolios using AI prompts.
+
+- [Smart SEO Analyzer](https://github.com/likhith3035/seo-analyzer)  
+  Tool that scans websites for SEO improvements with real-time suggestions.
+
+- [ChatBot Web App](https://github.com/likhith3035/chatbot-web)  
+  AI-powered chatbot built with React and Express, integrated with NLP APIs.
 
 ---
 
@@ -106,8 +110,20 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=likhith3035&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=dark" alt="GitHub Stats"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=dark" alt="Top Languages"/>
 
 </div>
+
+---
+
+## ⚡ Fun Facts
+
+- 💡 I love blending AI with web development.  
+- 🎮 Gamer at heart, coder by passion.  
+- 🌱 Currently exploring Next.js & cloud-native apps.  
 
 ---
 
@@ -118,4 +134,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
-```
