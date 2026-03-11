@@ -48,6 +48,8 @@
 
 ---
 
+---
+
 ## 🛠️ Skills
 
 <p align="center">
@@ -87,10 +89,20 @@
 
 </td>
 </tr>
+
+<tr>
+<td width="100%" align="center">
+
+<h3>🤖 AI Tools</h3>
+
+<img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity_AI-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+
+</td>
+</tr>
 </table>
 </p>
 
----
 
 ## 🚀 Featured Projects
 
