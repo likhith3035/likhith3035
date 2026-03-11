@@ -126,11 +126,17 @@
 
 ---
 
-## 📊 Advanced Contribution Dashboard
+---
+
+## 📈 Contribution Heatmap
 
 <div align="center">
-  <img src="https://github.com/likhith3035/likhith3035/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=likhith3035&theme=tokyonight" alt="Commits by Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhith3035&theme=tokyonight" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=likhith3035&theme=tokyonight" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhith3035&theme=tokyonight" alt="Profile Details"/>
 </div>
+
 
 
 ## ⚡ Fun Facts
