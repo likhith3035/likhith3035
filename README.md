@@ -113,7 +113,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/likhith3035/likhith3035/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/likhith3035/likhith3035/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 ---
