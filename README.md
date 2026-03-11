@@ -48,6 +48,22 @@
 
 ---
 
+## 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/likhith3035/ai-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=ai-portfolio&theme=dark" />
+  </a>
+  <a href="https://github.com/likhith3035/seo-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=seo-analyzer&theme=dark" />
+  </a>
+  <a href="https://github.com/likhith3035/chatbot-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=chatbot-web&theme=dark" />
+  </a>
+</p>
+
+---
+
 ## 🛠️ Skills
 
 <p align="center">
@@ -105,19 +121,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-- [AI Portfolio Generator](https://github.com/likhith3035/ai-portfolio)  
-  A React + Node.js app that auto-generates developer portfolios using AI prompts.
-
-- [Smart SEO Analyzer](https://github.com/likhith3035/seo-analyzer)  
-  Tool that scans websites for SEO improvements with real-time suggestions.
-
-- [ChatBot Web App](https://github.com/likhith3035/chatbot-web)  
-  AI-powered chatbot built with React and Express, integrated with NLP APIs.
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -148,18 +151,3 @@
 - 💡 I love blending AI with web development.  
 - 🎮 Gamer at heart, coder by passion.  
 - 🌱 Currently exploring Next.js & cloud-native apps.  
-
----
-
-## ❤️ Support Me
-
-<p align="center">
-  If you enjoy my projects or find my work helpful, consider supporting me!  
-  Your contribution helps me stay motivated and continue building cool AI-powered web solutions. 🚀
-</p>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
-  </a>
-</p>
