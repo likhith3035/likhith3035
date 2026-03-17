@@ -56,7 +56,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/likhith3035/share2all">
+<a href="https://github.com/likhith3035/secure-vault-folder-encryption">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=share2all&theme=tokyonight"/>
 </a>
 
