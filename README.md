@@ -178,7 +178,7 @@
 
 # ⭐ Support My Work
 
-If you like my projects, consider ***starring ⭐ the repositories***
+If you like my projects, consider  ***starring ⭐ the repositories***
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/likhith3035?style=social"/>
