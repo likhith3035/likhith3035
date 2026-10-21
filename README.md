@@ -1,162 +1,184 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ============================ HERO ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Likhith%20Kami&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Builder&descSize=20&descAlignY=58" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:00f7ff&height=240&section=header&text=Likhith%20Kami&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Zero-Cost%20Builder&descSize=20&descAlignY=62">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:ffffff,50:54aeff,100:0969da&height=240&section=header&text=Likhith%20Kami&fontSize=64&fontColor=0d1117&animation=twinkling&fontAlignY=40&desc=AI%20%C2%B7%20Full-Stack%20%C2%B7%20Zero-Cost%20Builder&descSize=20&descAlignY=62&descColor=0d1117">
+  <img alt="Likhith Kami" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1f6feb,100:00f7ff&height=240&section=header&text=Likhith%20Kami&fontSize=64&fontColor=ffffff" width="100%">
+</picture>
 
-<a href="https://github.com/likhith3035"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&width=620&height=40&lines=Final-year+B.Tech+%7C+AI+%26+Data+Science;Microsoft+Learn+Student+Ambassador;I+turn+ideas+into+AI-powered+products%2C+fast;Vibe+coding+%E2%80%A2+Local+LLMs+%E2%80%A2+Desktop+%26+Web+apps"/></a>
-
-<p>
-  <a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-devlikhith.vercel.app-00F7FF?style=for-the-badge&labelColor=0d1117"/></a>
-  <a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LinkedIn-likhith--kami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/></a>
-  <a href="https://github.com/likhith3035?tab=followers"><img src="https://img.shields.io/github/followers/likhith3035?style=for-the-badge&logo=github&labelColor=0d1117&color=8957e5"/></a>
-</p>
-
-<img src="https://img.shields.io/badge/Microsoft_Learn-Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/B.Tech-AI_%26_Data_Science-8957e5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Status-Open_to_opportunities-2ea043?style=flat-square"/>
-<img src="https://komarev.com/ghpvc/?username=likhith3035&label=Profile+views&color=0e75b6&style=flat-square"/>
-
-</div>
+<a href="https://devlikhith.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=1F6FEB&center=true&vCenter=true&width=700&height=40&lines=Final-year+B.Tech+%E2%80%A2+AI+%26+Data+Science;Microsoft+Learn+Student+Ambassador;I+ship+AI+products+that+cost+%240+to+run;Cursor+%E2%80%A2+Claude+Code+%E2%80%A2+Local+LLMs" alt="typing intro"/>
+</a>
 
 <br/>
 
-<!-- ======================= ABOUT ======================= -->
-## 👋 About Me
+<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/Portfolio-devlikhith.vercel.app-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/likhith3035?tab=followers"><img src="https://img.shields.io/github/followers/likhith3035?style=for-the-badge&logo=github&color=8957e5"/></a>
 
-```ts
-const likhith = {
-  role:      "AI & Full-Stack Developer",
-  studying:  "B.Tech — AI & Data Science (final year)",
-  community: "Microsoft Learn Student Ambassador",
-  style:     "Vibe coder — AI-assisted, ship-fast, iterate-faster",
-  building:  ["PromptLens", "PixelPet", "JARVIS"],
-  exploring: ["Local LLMs", "Tauri + Rust", "Prompt engineering"],
-  lookingFor: "Internships, collabs & interesting AI/web problems",
-};
-```
+<img src="https://img.shields.io/badge/Microsoft_Learn-Student_Ambassador-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-AI_%26_Data_Science-8957e5?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=likhith3035&label=Views&color=1f6feb&style=flat-square"/>
 
-<!-- ======================= NOW ======================= -->
-## ⚡ What I'm Up To
+</div>
+
+---
+
+## 🧭 Quick Intro
+
+> **I build useful AI products fast, using AI-assisted workflows, local models, and free-tier infrastructure so ideas ship without a budget.**
 
 | | |
-|---|---|
-| 🔭 **Building** | **PromptLens**, a prompt analyzer & optimizer |
-| 🧪 **Experimenting** | Local LLMs with a voice assistant (JARVIS) |
-| 🖥️ **Designing** | **PixelPet**, a desktop widget platform |
-| 🎓 **Learning** | Rust, Tauri, and shipping AI products end to end |
+|:--|:--|
+| 🎓 **Education** | B.Tech, AI & Data Science (final year) |
+| 🏅 **Community** | Microsoft Learn Student Ambassador |
+| 🧠 **Focus** | AI-powered web & desktop apps, local LLMs, prompt tooling |
+| ⚙️ **Style** | Vibe coder: spec first, AI-assisted build, ship, iterate |
+| 💸 **Principle** | Zero-cost stacks: free APIs, Vercel/Netlify, BYOK |
+| 📫 **Open to** | Internships, collaborations, and AI/web projects |
 
-<!-- ======================= PROJECTS ======================= -->
+---
+
 ## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔍 PromptLens
-*Know exactly why your prompt works (or doesn't).*
+#### 🔍 PromptLens
+**Prompt analyzer & optimizer**
 
-Prompt analyzer & optimizer with multi-dimensional scoring and diff-based rewrites. BYOK model + free demo tier.
+Multi-dimensional prompt scoring, diff-based rewrites, BYOK with a free demo tier.
 
-![Status](https://img.shields.io/badge/status-in_progress-orange?style=flat-square)
-![Web](https://img.shields.io/badge/Web_App-LLM-00F7FF?style=flat-square)
+`Web App` `LLM APIs` `BYOK`
+
+🟠 *In active development*
 
 </td>
 <td width="50%" valign="top">
 
-### 🐾 PixelPet
-*From a pet reminder to a widget platform.*
+#### 🐾 PixelPet
+**Desktop widget platform**
 
-Desktop overlay system with multiple widgets and a premium tier.
+Grew from a pet reminder app into a multi-widget overlay system with a premium tier.
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+`Tauri` `Rust` `Zustand`
+
+🔵 *Spec complete*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ JARVIS
-*A voice assistant that runs on your machine.*
+#### 🎙️ JARVIS
+**Offline voice assistant**
 
-Python voice assistant powered by a local LLM (LM Studio + Gemma). No cloud needed.
+JARVIS-style assistant running on a local LLM (LM Studio + Gemma). Private, no cloud.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Local LLM](https://img.shields.io/badge/Local_LLM-LM_Studio-8957e5?style=flat-square)
+`Python` `Local LLM` `Voice`
+
+🔵 *Spec complete*
 
 </td>
 <td width="50%" valign="top">
 
-### 🚌 College Bus Tracker
-*Real-time tracking at zero cost.*
+#### 🚌 College Bus Tracker
+**Real-time tracking, $0 infra**
 
-Capstone project: live bus locations on OpenStreetMap, built on a free-tier stack.
+Capstone app showing live bus positions on OpenStreetMap.
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![OSM](https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=flat-square&logo=openstreetmap&logoColor=white)
+`Flutter` `Firebase RTDB` `OpenStreetMap`
+
+🟢 *Capstone project*
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>📌 More repositories</b></summary>
+<summary><b>📌 More from my GitHub</b></summary>
 <br/>
-<p align="center">
-  <a href="https://github.com/likhith3035/livetalkbylikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/likhith3035/hostel-portal-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github.com/likhith3035/secure-vault-folder-encryption"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=secure-vault-folder-encryption&theme=tokyonight&hide_border=true"/></a>
-</p>
+<div align="center">
+<a href="https://github.com/likhith3035/livetalkbylikki"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/likhith3035/hostel-portal-2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/likhith3035/secure-vault-folder-encryption"><img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=secure-vault-folder-encryption&theme=tokyonight&hide_border=true"/></a>
+</div>
 </details>
 
-<!-- ======================= STACK ======================= -->
+---
+
+## 🧪 How I Build
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[📝 Spec]
+    B --> C[🤖 AI IDE build<br/>Cursor · Windsurf · Bolt]
+    C --> D[🧪 Test & govern<br/>custom rule sets]
+    D --> E[🚀 Ship free<br/>Vercel · Netlify]
+    E --> B
+```
+
+- **Local-first AI:** Claude Code wired to LM Studio, running Qwen2.5 Coder 7B on a 4GB GPU.
+- **Governed AI coding:** a custom ruleset keeps AI IDEs consistent and safe.
+- **Incremental over from-scratch:** build on proven pieces, ship in small steps.
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,python,c,rust,dart,html,css&perline=8"/>
-
-**Frontend & Frameworks**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,express&perline=6"/>
-
-**Databases & Cloud**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,gcp,vercel&perline=6"/>
-
-**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,rust,dart,html,css&perline=8"/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,nodejs,express&perline=6"/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,gcp,vercel&perline=6"/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio&perline=6"/>
 
 </div>
 
-<!-- ======================= STATS ======================= -->
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=default&hide_border=true&count_private=true">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=tokyonight&hide_border=true">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=default&hide_border=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=tokyonight&hide_border=true">
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=likhith3035&theme=tokyonight&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://streak-stats.demolab.com?user=likhith3035&theme=tokyonight&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=likhith3035&theme=default&hide_border=true">
+  <img alt="Streak" src="https://streak-stats.demolab.com?user=likhith3035&theme=tokyonight&hide_border=true">
+</picture>
 
-<img src="https://raw.githubusercontent.com/likhith3035/likhith3035/output/github-contribution-grid-snake.svg"/>
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/likhith3035/likhith3035/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
-<!-- ======================= CONNECT ======================= -->
+---
+
 ## 🤝 Let's Build Something
 
-Got an AI or web idea? Looking for a collaborator or an intern who ships? Let's talk.
+Have an AI or web idea, or need someone who ships? Reach out.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/Message_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/See_my_portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/View_my_portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
-<br/><br/>
-<sub>⭐ If something here helped you, a star on any repo means a lot.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=110&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:1f6feb,100:0d1117&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0969da,50:54aeff,100:ffffff&height=120&section=footer">
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,50:1f6feb,100:0d1117&height=120&section=footer" width="100%">
+</picture>
 
 </div>
