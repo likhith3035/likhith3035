@@ -1,185 +1,180 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+ <!-- ═══════════════════════ HERO ═══════════════════════ -->
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
-  Hi, I'm <strong>Likhith kami</strong>
-</h1>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=likhith3035&label=Profile%20Views&color=blue&style=for-the-badge"/>
-</p>
+<a href="https://devlikhith.vercel.app">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Likhith%20Kami&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descAlignY=61&color=0:05070D,35:0B1F40,70:0969DA,100:00D4FF" alt="Likhith Kami"/>
+</a>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Engineer+%7C+Full+Stack+Developer;Building+AI+Powered+Web+Apps;React+%7C+Next.js+%7C+Node.js;Machine+Learning+Explorer;Open+Source+Enthusiast"/>
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=AI+%26+Data+Science;Full-Stack+Developer;Building+AI-Powered+Applications;From+Ideas+to+Working+Products" alt="Developer introduction"/>
+
+<br/><br/>
+
+<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/likhith3035?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=likhith3035&style=flat-square&color=0969DA&label=PROFILE+VIEWS" alt="Profile views"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-- 🎓 B.Tech AI & Data Science Student  
-- 🤖 Passionate about Artificial Intelligence  
-- 🌐 Building AI Powered Web Applications  
-- 🚀 Exploring Next.js, Cloud & Machine Learning  
+### SOFTWARE · AI · EXPERIMENTATION
 
----
+*I turn ambitious ideas into practical digital experiences.*
 
-# 🌐 Connect With Me
+</div>
 
-<p align="center">
+## `01` — THE DEVELOPER
 
-<a href="https://github.com/likhith3035">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+I'm a B.Tech student specializing in Artificial Intelligence and Data Science, interested in the intersection of AI, product engineering, and modern software development.
 
-<a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+I enjoy exploring emerging technologies and turning concepts into applications across web, mobile, desktop, and AI.
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<details>
+<summary><b>A little more about me</b></summary>
 
-</p>
+- Exploring AI-powered applications and local language models.
+- Developing projects with modern frontend, backend, and database technologies.
+- Experimenting with AI-assisted programming and automation.
+- Interested in open-source, hackathons, and collaborative projects.
+- Focused on building useful software with practical, cost-conscious technology choices.
+
+</details>
 
 ---
 
-# 🚀 Featured Projects
+## `02` — SELECTED PROJECTS
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/likhith3035/livetalkbylikki">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/likhith3035/hostel-portal-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=github_dark&hide_border=true" width="49%" alt="LiveTalk repository"/>
+</a><a href="https://github.com/likhith3035/hostel-portal-2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=github_dark&hide_border=true" width="49%" alt="Hostel Portal repository"/>
 </a>
 
 <a href="https://github.com/likhith3035/secure-vault-folder-encryption">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=share2all&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=secure-vault-folder-encryption&theme=github_dark&hide_border=true" width="49%" alt="Secure Vault repository"/>
 </a>
 
-</p>
+<br/><br/>
+
+<a href="https://github.com/likhith3035?tab=repositories">VIEW ALL REPOSITORIES &nbsp; ↗</a>
+
+</div>
+
+### Beyond the pinned repositories
+
+| Project | What it explores |
+|:--|:--|
+| **AuraMusic** | Music playback, offline listening, and a modern listening experience |
+| **StudentHub** | Campus collaboration and resource sharing |
+| **Kiosk Vision** | Offline-first interaction using local AI, voice, and gestures |
+| **NBKRIST Department AI** | Retrieval-augmented question answering for department information |
+| **DigitalGuard** | Android tools for mindful phone usage |
+| **News 24/7** | RSS-based news browsing, bookmarks, and dark mode |
+
+<sub>Project descriptions reflect their intended functionality. Refer to the corresponding repository or live demo for implementation status.</sub>
 
 ---
 
-# 🛠️ Tech Stack
+## `03` — TECHNICAL ARSENAL
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,typescript"/>
-</p>
+<sub>LANGUAGES</sub>
 
-### ⚙️ Frameworks & Libraries
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwind,bootstrap"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,rust,dart,html,css&theme=dark&perline=8" alt="Programming languages"/>
 
-### 🗄️ Databases
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql"/>
-</p>
+<sub>FRAMEWORKS & PLATFORMS</sub>
 
-### 🧰 Tools & Platforms
+<br/><br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,androidstudio"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter,androidstudio&theme=dark&perline=7" alt="Frameworks and platforms"/>
 
----
+<br/><br/>
 
-# 🧠 AI Developer
+<sub>DATA & INFRASTRUCTURE</sub>
 
-- 🤖 Machine Learning  
-- 🧠 Deep Learning  
-- 🔍 Natural Language Processing  
-- 🌐 AI Powered Web Applications  
+<br/><br/>
 
----
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,mysql,postgres,docker,vercel,netlify&theme=dark&perline=8" alt="Databases and infrastructure"/>
 
-# 🏆 GitHub Achievements
+<br/><br/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=likhith3035&theme=tokyonight&row=1&column=7"/>
-</p>
+<sub>DEVELOPER TOOLS</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5" alt="Developer tools"/>
+
+</div>
 
 ---
 
-# 📊 GitHub Stats
+## `04` — GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=likhith3035&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/likhith3035">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub overview"/>
+</a>
+<a href="https://github.com/likhith3035">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages"/>
+</a>
 
-<br>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=tokyonight"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=likhith3035&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Developer Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-# 📊 Contribution Dashboard
+## `05` — RECOGNITION
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=likhith3035&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/IEEE--CIS-CHATBOT%20BUILDATHON-161B22?style=for-the-badge" alt="IEEE-CIS Chatbot Buildathon"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=likhith3035&theme=tokyonight"/>
+<br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=likhith3035&theme=tokyonight"/>
+**2nd Prize · TECHTATVA 2K25**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=likhith3035&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🐍 Contribution Snake
+## `06` — LET'S CONNECT
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/likhith3035/likhith3035/output/github-contribution-grid-snake.svg"/>
-</p>
+<div align="center">
 
----
+### Good ideas deserve to be built.
 
-# ⚡ Fun Facts
+Open to meaningful collaborations, internships, and opportunities to create useful technology.
 
-- 💡 I love blending AI with Web Development  
-- 🎮 Gamer at heart, coder by passion  
-- 🚀 Building tools that make life easier  
-- 🌱 Always learning new technologies  
+<br/>
 
----
+<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/likhith3035"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
-# 💻 Coding Quote
+<br/><br/>
 
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:00D4FF,50:0969DA,100:05070D" alt=""/>
 
----
+<sub>Designed around curiosity. Built through experimentation.</sub>
 
-# ⭐ Support My Work
-
-If you like my projects, consider  ***starring ⭐ the repositories***
-
-<p align="center">
-<img src="https://img.shields.io/github/stars/likhith3035?style=social"/>
-</p>
+</div>
