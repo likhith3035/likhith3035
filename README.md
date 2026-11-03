@@ -161,14 +161,13 @@ Technologies and tools I work with or actively explore.
 <br/><br/>
 
 <!-- Contribution Activity Graph -->
-<a href="https://github.com/likhith3035">
+<div align="center">
   <img
+    src="https://raw.githubusercontent.com/likhith3035/likhith3035/main/streak.svg"
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&area_color=0969da&hide_border=true&custom_title=Contribution%20Activity"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Contribution Streak"
   />
-</a>
-
+</div>
 <br/><br/>
 
 <!-- GitHub Profile Link -->
