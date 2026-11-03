@@ -131,28 +131,24 @@ Technologies and tools I work with or actively explore.
 
 ---
 
+
 ## 04 / GITHUB STATISTICS
 
 <div align="center">
 
 <a href="https://github.com/likhith3035">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 <a href="https://github.com/likhith3035">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=likhith3035&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
 
 </div>
 
----
 
 ## 05 / ACHIEVEMENTS
 
