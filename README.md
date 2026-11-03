@@ -174,6 +174,13 @@ Technologies and tools I work with or actively explore.
 <a href="https://github.com/likhith3035?tab=repositories">
   <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/likhith3035/likhith3035/main/heatmap.svg"
+    width="95%"
+    alt="GitHub Contribution Heatmap"
+  />
+</div>
 
 </div>
 
