@@ -1,24 +1,26 @@
- <!-- ═══════════════════════ HERO ═══════════════════════ -->
+ <!-- ═══════════════════════════════════════════════════════ -->
+<!--                    PROFILE HEADER                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <a href="https://devlikhith.vercel.app">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Likhith%20Kami&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descAlignY=61&color=0:05070D,35:0B1F40,70:0969DA,100:00D4FF" alt="Likhith Kami"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Likhith%20Kami&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=SOFTWARE%20ENGINEERING%20%7C%20ARTIFICIAL%20INTELLIGENCE%20%7C%20PRODUCT%20DEVELOPMENT&descSize=11&descAlignY=62&color=0:05070D,40:0B1F40,75:0969DA,100:00D4FF" alt="Likhith Kami"/>
 </a>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&height=35&lines=AI+%26+Data+Science;Full-Stack+Developer;Building+AI-Powered+Applications;From+Ideas+to+Working+Products" alt="Developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Data+Science+Student;Full-Stack+Application+Developer;Exploring+AI+%26+On-Device+Intelligence;Building+Software+Beyond+the+Ordinary" alt="Introduction"/>
 
 <br/><br/>
 
-<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/likhith3035?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LET'S%20CONNECT-161B22?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/likhith3035?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=likhith3035&style=flat-square&color=0969DA&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=likhith3035&style=flat-square&color=0969DA&label=PROFILE+VISITORS"/>
 
 </div>
 
@@ -26,155 +28,178 @@
 
 <div align="center">
 
-### SOFTWARE · AI · EXPERIMENTATION
+**ENGINEER MINDS. BUILD PRODUCTS. EXPLORE POSSIBILITIES.**
 
-*I turn ambitious ideas into practical digital experiences.*
+*Turning ideas, experiments, and emerging technologies into working software.*
 
 </div>
 
-## `01` — THE DEVELOPER
+## 01 / ABOUT
 
-I'm a B.Tech student specializing in Artificial Intelligence and Data Science, interested in the intersection of AI, product engineering, and modern software development.
+I'm **Likhith Kami**, an Artificial Intelligence and Data Science undergraduate with a strong interest in software engineering, AI applications, and product development.
 
-I enjoy exploring emerging technologies and turning concepts into applications across web, mobile, desktop, and AI.
+I enjoy working across the software development lifecycle — from exploring an idea and designing its architecture to building, testing, and deploying functional applications.
 
-<details>
-<summary><b>A little more about me</b></summary>
+My work spans web applications, Android development, desktop software, automation, and AI-powered systems.
 
-- Exploring AI-powered applications and local language models.
-- Developing projects with modern frontend, backend, and database technologies.
-- Experimenting with AI-assisted programming and automation.
-- Interested in open-source, hackathons, and collaborative projects.
-- Focused on building useful software with practical, cost-conscious technology choices.
+I believe the best way to understand technology is to build with it.
 
-</details>
+**Currently interested in:**
+- AI-powered applications and intelligent systems.
+- Full-stack and cross-platform development.
+- On-device AI and local language models.
+- Modern application architecture and product engineering.
+- Developer tools, automation, and experimentation.
 
 ---
 
-## `02` — SELECTED PROJECTS
+## 02 / PROJECTS
+
+A selection of applications, experiments, and products I've worked on.
+
+### Featured repositories
 
 <div align="center">
 
 <a href="https://github.com/likhith3035/livetalkbylikki">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=github_dark&hide_border=true" width="49%" alt="LiveTalk repository"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=livetalkbylikki&theme=github_dark&hide_border=true" width="49%" alt="LiveTalk"/>
 </a><a href="https://github.com/likhith3035/hostel-portal-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=github_dark&hide_border=true" width="49%" alt="Hostel Portal repository"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=hostel-portal-2&theme=github_dark&hide_border=true" width="49%" alt="Hostel Portal"/>
 </a>
 
 <a href="https://github.com/likhith3035/secure-vault-folder-encryption">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=secure-vault-folder-encryption&theme=github_dark&hide_border=true" width="49%" alt="Secure Vault repository"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=likhith3035&repo=secure-vault-folder-encryption&theme=github_dark&hide_border=true" width="49%" alt="Secure Vault"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/likhith3035?tab=repositories">VIEW ALL REPOSITORIES &nbsp; ↗</a>
+<a href="https://github.com/likhith3035?tab=repositories">Explore all repositories →</a>
 
 </div>
 
-### Beyond the pinned repositories
+### Other projects
 
-| Project | What it explores |
+| Project | Description |
 |:--|:--|
-| **AuraMusic** | Music playback, offline listening, and a modern listening experience |
-| **StudentHub** | Campus collaboration and resource sharing |
-| **Kiosk Vision** | Offline-first interaction using local AI, voice, and gestures |
-| **NBKRIST Department AI** | Retrieval-augmented question answering for department information |
-| **DigitalGuard** | Android tools for mindful phone usage |
-| **News 24/7** | RSS-based news browsing, bookmarks, and dark mode |
-
-<sub>Project descriptions reflect their intended functionality. Refer to the corresponding repository or live demo for implementation status.</sub>
+| **AuraMusic** | An Android music application focused on offline listening, intelligent features, and a refined audio experience. |
+| **StudentHub** | A campus collaboration platform for sharing resources and connecting students. |
+| **Kiosk Vision** | An offline-first smart kiosk concept combining local AI, voice, gestures, and UPI QR generation. |
+| **NBKRIST Department AI** | A retrieval-augmented AI assistant for accessing academic and departmental information. |
+| **DigitalGuard** | An Android digital-wellbeing application exploring app control and activity-aware interactions. |
+| **News 24/7** | A news platform featuring RSS integration, bookmarks, and a personalized browsing experience. |
+| **Smart Recruitment Assistant** | An AI-assisted recruitment application exploring candidate evaluation and recruitment workflows. |
 
 ---
 
-## `03` — TECHNICAL ARSENAL
+## 03 / TECHNOLOGY STACK
+
+Technologies and tools I work with or actively explore.
 
 <div align="center">
 
-<sub>LANGUAGES</sub>
+**PROGRAMMING LANGUAGES**
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,c,rust,dart,html,css&theme=dark&perline=8" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,c,rust,dart,html,css&theme=dark&perline=8"/>
 
 <br/><br/>
 
-<sub>FRAMEWORKS & PLATFORMS</sub>
+**FRONTEND & APPLICATION DEVELOPMENT**
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter,androidstudio&theme=dark&perline=7" alt="Frameworks and platforms"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,flutter,androidstudio&theme=dark&perline=7"/>
 
 <br/><br/>
 
-<sub>DATA & INFRASTRUCTURE</sub>
+**DATABASES & CLOUD**
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,mysql,postgres,docker,vercel,netlify&theme=dark&perline=8" alt="Databases and infrastructure"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase,mysql,postgres,docker,vercel,netlify&theme=dark&perline=8"/>
 
 <br/><br/>
 
-<sub>DEVELOPER TOOLS</sub>
+**DEVELOPER ENVIRONMENT**
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5" alt="Developer tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5"/>
 
 </div>
 
 ---
 
-## `04` — GITHUB ANALYTICS
+## 04 / GITHUB STATISTICS
 
 <div align="center">
 
 <a href="https://github.com/likhith3035">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub overview"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
 </a>
 <a href="https://github.com/likhith3035">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Most used languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=likhith3035&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `05` — RECOGNITION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IEEE--CIS-CHATBOT%20BUILDATHON-161B22?style=for-the-badge" alt="IEEE-CIS Chatbot Buildathon"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=likhith3035&theme=github-dark-blue&hide_border=true&background=0D1117"/>
 
 <br/><br/>
 
-**2nd Prize · TECHTATVA 2K25**
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
 </div>
 
 ---
 
-## `06` — LET'S CONNECT
+## 05 / ACHIEVEMENTS
 
 <div align="center">
 
-### Good ideas deserve to be built.
+<img src="https://img.shields.io/badge/IEEE--CIS-CHATBOT%20BUILDATHON-161B22?style=for-the-badge"/>
 
-Open to meaningful collaborations, internships, and opportunities to create useful technology.
+### 2nd Prize — IEEE-CIS Chatbot Buildathon
+
+**TECHTATVA · 2K25**
+
+Recognition for building a chatbot solution as part of a competitive technical event.
+
+</div>
+
+---
+
+## 06 / CONNECT
+
+<div align="center">
+
+### Let's build something meaningful.
+
+I'm interested in connecting with developers, engineers, and innovators who enjoy turning challenging ideas into practical products.
+
+Open to meaningful collaborations, internships, and interesting engineering opportunities.
 
 <br/>
 
-<a href="https://devlikhith.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0969DA?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/likhith-kami"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/likhith3035"><img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://devlikhith.vercel.app">
+<img src="https://img.shields.io/badge/WEBSITE-0969DA?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/likhith-kami">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/likhith3035">
+<img src="https://img.shields.io/badge/GITHUB-21262D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:00D4FF,50:0969DA,100:05070D" alt=""/>
+<a href="https://devlikhith.vercel.app">devlikhith.vercel.app</a>
 
-<sub>Designed around curiosity. Built through experimentation.</sub>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D4FF,50:0969DA,100:05070D"/>
+
+<sub>Curiosity drives the ideas. Engineering brings them to life.</sub>
 
 </div>
