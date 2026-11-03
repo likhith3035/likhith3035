@@ -132,22 +132,54 @@ Technologies and tools I work with or actively explore.
 ---
 
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  GITHUB STATISTICS                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
 ## 04 / GITHUB STATISTICS
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <a href="https://github.com/likhith3035">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=likhith3035&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="Likhith's GitHub Statistics"
+  />
 </a>
+
+<!-- Most Used Languages -->
 <a href="https://github.com/likhith3035">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=likhith3035&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Most Used Programming Languages"
+  />
 </a>
 
 <br/><br/>
 
-<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&hide_border=true" alt="GitHub Contribution Activity"/>
+<!-- Contribution Activity Graph -->
+<a href="https://github.com/likhith3035">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=likhith3035&bg_color=0d1117&color=58a6ff&line=0969da&point=00d4ff&area=true&area_color=0969da&hide_border=true&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+  />
+</a>
+
+<br/><br/>
+
+<!-- GitHub Profile Link -->
+<a href="https://github.com/likhith3035?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
 
 
 ## 05 / ACHIEVEMENTS
