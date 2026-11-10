@@ -11,7 +11,7 @@
 
       <text x="35" y="105" fill="#58a6ff"
         font-family="Arial" font-size="43"
-        font-weight="bold">16 DAYS 🔥</text>
+        font-weight="bold">17 DAYS 🔥</text>
 
       <text x="35" y="151" fill="#8b949e"
         font-family="Arial" font-size="12">FROM</text>
@@ -23,7 +23,7 @@
         font-family="Arial" font-size="12">TO</text>
       <text x="345" y="177" fill="#e6edf3"
         font-family="Arial" font-size="17"
-        font-weight="bold">Nov 08, 2026</text>
+        font-weight="bold">Nov 09, 2026</text>
 
       <line x1="35" y1="195" x2="815" y2="195"
         stroke="#30363d"/>
@@ -31,7 +31,7 @@
       <text x="35" y="225" fill="#3fb950"
         font-family="Arial" font-size="15"
         font-weight="bold">
-        CURRENT STREAK: 16 DAYS
+        CURRENT STREAK: 17 DAYS
       </text>
 
       <text x="440" y="225" fill="#8b949e"
